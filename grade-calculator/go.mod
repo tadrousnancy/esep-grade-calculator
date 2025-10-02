@@ -1,3 +1,3 @@
-module esep/grade-calculator
+module esepunittests
 
 go 1.24.4
